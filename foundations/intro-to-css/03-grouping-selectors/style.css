@@ -1,16 +1,17 @@
 /* Add CSS Styling */
 
-.click {
+.left,
+.right {
     font-size: 28px;
     font-family: Helvetica, "Times New Roman" sans-serif;
 }
 
-.click.left {
+.left {
     color: white;
     background-color: black;
 
 }
 
-.click.right {
+.right {
     background-color: yellow;
 }
